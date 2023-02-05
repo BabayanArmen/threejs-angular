@@ -25,3 +25,28 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+#### instalation 
+https://medium.com/geekculture/hello-cube-your-first-three-js-scene-in-angular-176c44b9c6c0
+https://www.youtube.com/watch?v=RCgdXY9-Ir8
+
+orbitcontrol
+https://www.youtube.com/watch?v=vuA3qG15JfI
+
+https://www.youtube.com/watch?v=cNCGdy8I8QQ
+
+https://www.youtube.com/watch?v=03PCzV5oRvI
+
+3dmodels
+https://www.youtube.com/watch?v=1TeMXIWRrqE
+https://redstapler.co/add-3d-model-to-website-threejs/
+https://sketchfab.com/3d-models/free-1972-datsun-240k-gt-b2303a552b444e5b8637fdf5169b41cb
+
+https://www.youtube.com/watch?v=F4q2cqj_Tdc
+
+
+npm install three
+npm install @types/three
+
+recomented model format - .glTF
+also supported .fpx and .obj
